@@ -5,7 +5,7 @@ An ecosystem for fighting fake news on social media and beyond.
 
 
 ## Try it out 👩‍💻
-Visit the `api` repository and follow the instructions to run the live pipeline locally.
+Visit the `api-twitterbot` repository and follow the instructions to run the live pipeline locally.
 
 ## How it works ⚙️
 To learn more about it works, feel free to take a look at our `notebooks` repository.
