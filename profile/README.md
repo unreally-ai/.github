@@ -19,5 +19,4 @@ To learn more about it works, feel free to take a look at our `notebooks` reposi
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->![signal-2022-09-11-183052_002](https://user-images.githubusercontent.com/64489325/189538730-c4d44cf9-1f6a-4c6c-9e01-32ad427f0d0b.png)
-
+-->
